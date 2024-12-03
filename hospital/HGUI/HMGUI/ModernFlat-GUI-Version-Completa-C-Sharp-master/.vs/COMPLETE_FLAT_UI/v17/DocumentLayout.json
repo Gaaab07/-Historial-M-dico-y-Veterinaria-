@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\GABRIEL\\Desktop\\interfaz\\HM2\\Interfaz Historial Medico\\ModernFlat-GUI-Version-Completa-C-Sharp-master\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C6921B3-8558-4914-8254-11C9EE505B00}|COMPLETE_FLAT_UI\\COMPLETE_FLAT_UI.csproj|C:\\Users\\GABRIEL\\Desktop\\interfaz\\HM2\\Interfaz Historial Medico\\ModernFlat-GUI-Version-Completa-C-Sharp-master\\complete_flat_ui\\formmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C6921B3-8558-4914-8254-11C9EE505B00}|COMPLETE_FLAT_UI\\COMPLETE_FLAT_UI.csproj|solutionrelative:complete_flat_ui\\formmenuprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C6921B3-8558-4914-8254-11C9EE505B00}|COMPLETE_FLAT_UI\\COMPLETE_FLAT_UI.csproj|C:\\Users\\GABRIEL\\Desktop\\interfaz\\HM2\\Interfaz Historial Medico\\ModernFlat-GUI-Version-Completa-C-Sharp-master\\complete_flat_ui\\formmantpaciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C6921B3-8558-4914-8254-11C9EE505B00}|COMPLETE_FLAT_UI\\COMPLETE_FLAT_UI.csproj|solutionrelative:complete_flat_ui\\formmantpaciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C6921B3-8558-4914-8254-11C9EE505B00}|COMPLETE_FLAT_UI\\COMPLETE_FLAT_UI.csproj|c:\\users\\gabriel\\desktop\\interfaz\\hm2\\interfaz historial medico\\modernflat-gui-version-completa-c-sharp-master\\complete_flat_ui\\formmantpaciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C6921B3-8558-4914-8254-11C9EE505B00}|COMPLETE_FLAT_UI\\COMPLETE_FLAT_UI.csproj|solutionrelative:complete_flat_ui\\formmantpaciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C6921B3-8558-4914-8254-11C9EE505B00}|COMPLETE_FLAT_UI\\COMPLETE_FLAT_UI.csproj|C:\\Users\\GABRIEL\\Desktop\\interfaz\\HM2\\Interfaz Historial Medico\\ModernFlat-GUI-Version-Completa-C-Sharp-master\\complete_flat_ui\\formlistapaciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C6921B3-8558-4914-8254-11C9EE505B00}|COMPLETE_FLAT_UI\\COMPLETE_FLAT_UI.csproj|solutionrelative:complete_flat_ui\\formlistapaciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C6921B3-8558-4914-8254-11C9EE505B00}|COMPLETE_FLAT_UI\\COMPLETE_FLAT_UI.csproj|C:\\Users\\GABRIEL\\Desktop\\interfaz\\HM2\\Interfaz Historial Medico\\ModernFlat-GUI-Version-Completa-C-Sharp-master\\complete_flat_ui\\formconsulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2C6921B3-8558-4914-8254-11C9EE505B00}|COMPLETE_FLAT_UI\\COMPLETE_FLAT_UI.csproj|solutionrelative:complete_flat_ui\\formconsulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C6921B3-8558-4914-8254-11C9EE505B00}|COMPLETE_FLAT_UI\\COMPLETE_FLAT_UI.csproj|C:\\Users\\GABRIEL\\Desktop\\interfaz\\HM2\\Interfaz Historial Medico\\ModernFlat-GUI-Version-Completa-C-Sharp-master\\complete_flat_ui\\formlistapaciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C6921B3-8558-4914-8254-11C9EE505B00}|COMPLETE_FLAT_UI\\COMPLETE_FLAT_UI.csproj|solutionrelative:complete_flat_ui\\formlistapaciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C6921B3-8558-4914-8254-11C9EE505B00}|COMPLETE_FLAT_UI\\COMPLETE_FLAT_UI.csproj|C:\\Users\\GABRIEL\\Desktop\\interfaz\\HM2\\Interfaz Historial Medico\\ModernFlat-GUI-Version-Completa-C-Sharp-master\\complete_flat_ui\\fromenfermero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C6921B3-8558-4914-8254-11C9EE505B00}|COMPLETE_FLAT_UI\\COMPLETE_FLAT_UI.csproj|solutionrelative:complete_flat_ui\\fromenfermero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C6921B3-8558-4914-8254-11C9EE505B00}|COMPLETE_FLAT_UI\\COMPLETE_FLAT_UI.csproj|C:\\Users\\GABRIEL\\Desktop\\interfaz\\HM2\\Interfaz Historial Medico\\ModernFlat-GUI-Version-Completa-C-Sharp-master\\complete_flat_ui\\formmedico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C6921B3-8558-4914-8254-11C9EE505B00}|COMPLETE_FLAT_UI\\COMPLETE_FLAT_UI.csproj|solutionrelative:complete_flat_ui\\formmedico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C6921B3-8558-4914-8254-11C9EE505B00}|COMPLETE_FLAT_UI\\COMPLETE_FLAT_UI.csproj|C:\\Users\\GABRIEL\\Desktop\\interfaz\\HM2\\Interfaz Historial Medico\\ModernFlat-GUI-Version-Completa-C-Sharp-master\\complete_flat_ui\\formlistapaciente.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C6921B3-8558-4914-8254-11C9EE505B00}|COMPLETE_FLAT_UI\\COMPLETE_FLAT_UI.csproj|solutionrelative:complete_flat_ui\\formlistapaciente.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 304,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormMenuPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\GABRIEL\\Desktop\\interfaz\\HM2\\Interfaz Historial Medico\\ModernFlat-GUI-Version-Completa-C-Sharp-master\\COMPLETE_FLAT_UI\\FormMenuPrincipal.cs",
+              "RelativeDocumentMoniker": "COMPLETE_FLAT_UI\\FormMenuPrincipal.cs",
+              "ToolTip": "C:\\Users\\GABRIEL\\Desktop\\interfaz\\HM2\\Interfaz Historial Medico\\ModernFlat-GUI-Version-Completa-C-Sharp-master\\COMPLETE_FLAT_UI\\FormMenuPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "COMPLETE_FLAT_UI\\FormMenuPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T22:46:56.02Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormListaPaciente.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\GABRIEL\\Desktop\\interfaz\\HM2\\Interfaz Historial Medico\\ModernFlat-GUI-Version-Completa-C-Sharp-master\\COMPLETE_FLAT_UI\\FormListaPaciente.cs",
+              "RelativeDocumentMoniker": "COMPLETE_FLAT_UI\\FormListaPaciente.cs",
+              "ToolTip": "C:\\Users\\GABRIEL\\Desktop\\interfaz\\HM2\\Interfaz Historial Medico\\ModernFlat-GUI-Version-Completa-C-Sharp-master\\COMPLETE_FLAT_UI\\FormListaPaciente.cs [Dise\u00F1o]",
+              "RelativeToolTip": "COMPLETE_FLAT_UI\\FormListaPaciente.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T02:29:52.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormMantPaciente.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\GABRIEL\\Desktop\\interfaz\\HM2\\Interfaz Historial Medico\\ModernFlat-GUI-Version-Completa-C-Sharp-master\\COMPLETE_FLAT_UI\\FormMantPaciente.cs",
+              "RelativeDocumentMoniker": "COMPLETE_FLAT_UI\\FormMantPaciente.cs",
+              "ToolTip": "C:\\Users\\GABRIEL\\Desktop\\interfaz\\HM2\\Interfaz Historial Medico\\ModernFlat-GUI-Version-Completa-C-Sharp-master\\COMPLETE_FLAT_UI\\FormMantPaciente.cs [Dise\u00F1o]",
+              "RelativeToolTip": "COMPLETE_FLAT_UI\\FormMantPaciente.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T10:35:49.399Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormMantPaciente.cs",
+              "DocumentMoniker": "C:\\Users\\GABRIEL\\Desktop\\interfaz\\HM2\\Interfaz Historial Medico\\ModernFlat-GUI-Version-Completa-C-Sharp-master\\COMPLETE_FLAT_UI\\FormMantPaciente.cs",
+              "RelativeDocumentMoniker": "COMPLETE_FLAT_UI\\FormMantPaciente.cs",
+              "ToolTip": "C:\\Users\\GABRIEL\\Desktop\\interfaz\\HM2\\Interfaz Historial Medico\\ModernFlat-GUI-Version-Completa-C-Sharp-master\\COMPLETE_FLAT_UI\\FormMantPaciente.cs",
+              "RelativeToolTip": "COMPLETE_FLAT_UI\\FormMantPaciente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T02:27:31.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormConsulta.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\GABRIEL\\Desktop\\interfaz\\HM2\\Interfaz Historial Medico\\ModernFlat-GUI-Version-Completa-C-Sharp-master\\COMPLETE_FLAT_UI\\FormConsulta.cs",
+              "RelativeDocumentMoniker": "COMPLETE_FLAT_UI\\FormConsulta.cs",
+              "ToolTip": "C:\\Users\\GABRIEL\\Desktop\\interfaz\\HM2\\Interfaz Historial Medico\\ModernFlat-GUI-Version-Completa-C-Sharp-master\\COMPLETE_FLAT_UI\\FormConsulta.cs [Dise\u00F1o]",
+              "RelativeToolTip": "COMPLETE_FLAT_UI\\FormConsulta.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T03:26:40.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormListaPaciente.cs",
+              "DocumentMoniker": "C:\\Users\\GABRIEL\\Desktop\\interfaz\\HM2\\Interfaz Historial Medico\\ModernFlat-GUI-Version-Completa-C-Sharp-master\\COMPLETE_FLAT_UI\\FormListaPaciente.cs",
+              "RelativeDocumentMoniker": "COMPLETE_FLAT_UI\\FormListaPaciente.cs",
+              "ToolTip": "C:\\Users\\GABRIEL\\Desktop\\interfaz\\HM2\\Interfaz Historial Medico\\ModernFlat-GUI-Version-Completa-C-Sharp-master\\COMPLETE_FLAT_UI\\FormListaPaciente.cs",
+              "RelativeToolTip": "COMPLETE_FLAT_UI\\FormListaPaciente.cs",
+              "ViewState": "AgIAAGkAAAAAAAAAAAAWwFgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T02:29:57.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FromEnfermero.cs",
+              "DocumentMoniker": "C:\\Users\\GABRIEL\\Desktop\\interfaz\\HM2\\Interfaz Historial Medico\\ModernFlat-GUI-Version-Completa-C-Sharp-master\\COMPLETE_FLAT_UI\\FromEnfermero.cs",
+              "RelativeDocumentMoniker": "COMPLETE_FLAT_UI\\FromEnfermero.cs",
+              "ToolTip": "C:\\Users\\GABRIEL\\Desktop\\interfaz\\HM2\\Interfaz Historial Medico\\ModernFlat-GUI-Version-Completa-C-Sharp-master\\COMPLETE_FLAT_UI\\FromEnfermero.cs",
+              "RelativeToolTip": "COMPLETE_FLAT_UI\\FromEnfermero.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAcwE0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T03:29:13.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormMedico.cs",
+              "DocumentMoniker": "C:\\Users\\GABRIEL\\Desktop\\interfaz\\HM2\\Interfaz Historial Medico\\ModernFlat-GUI-Version-Completa-C-Sharp-master\\COMPLETE_FLAT_UI\\FormMedico.cs",
+              "RelativeDocumentMoniker": "COMPLETE_FLAT_UI\\FormMedico.cs",
+              "ToolTip": "C:\\Users\\GABRIEL\\Desktop\\interfaz\\HM2\\Interfaz Historial Medico\\ModernFlat-GUI-Version-Completa-C-Sharp-master\\COMPLETE_FLAT_UI\\FormMedico.cs",
+              "RelativeToolTip": "COMPLETE_FLAT_UI\\FormMedico.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAlwIUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T18:33:36.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormListaPaciente.designer.cs",
+              "DocumentMoniker": "C:\\Users\\GABRIEL\\Desktop\\interfaz\\HM2\\Interfaz Historial Medico\\ModernFlat-GUI-Version-Completa-C-Sharp-master\\COMPLETE_FLAT_UI\\FormListaPaciente.designer.cs",
+              "RelativeDocumentMoniker": "COMPLETE_FLAT_UI\\FormListaPaciente.designer.cs",
+              "ToolTip": "C:\\Users\\GABRIEL\\Desktop\\interfaz\\HM2\\Interfaz Historial Medico\\ModernFlat-GUI-Version-Completa-C-Sharp-master\\COMPLETE_FLAT_UI\\FormListaPaciente.designer.cs",
+              "RelativeToolTip": "COMPLETE_FLAT_UI\\FormListaPaciente.designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T10:41:35.385Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
